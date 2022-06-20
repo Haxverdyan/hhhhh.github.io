@@ -1,0 +1,41 @@
+#aca1 {
+	font-size: 55px;
+	color: 	#A52A2A;
+	width: 300px;
+
+}
+#aca2 {
+	font-size: 50px;
+	color: #000080 ;
+    width: 300px;
+}
+#aca3 {
+	font-size: 50px;
+	color: #00FFFF;
+    width: 300px;
+}
+#aca4 {
+	font-size: 50px;
+	color: 	#00FF00;
+width: 300px;
+}
+#aca5 {
+	font-size: 50px;
+	color:#7FFF00;
+width: 300px;
+}
+#aca6 {
+	font-size: 50px;
+	color: 	#FF00FF;
+width: 300px;
+}
+#aca7 {
+	font-size: 50px;
+	color: #00FF00 ;
+width: 300px;
+
+}
+#har{
+	display: flex;
+	flex-direction: row;
+}
